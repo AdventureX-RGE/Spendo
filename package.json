@@ -7,7 +7,11 @@
   },
   "dependencies": {
     "@elysiajs/cors": "^1.0.2",
-    "elysia": "latest"
+    "@types/crypto-js": "^4.2.2",
+    "crypto-js": "^4.2.0",
+    "elysia": "latest",
+    "pg": "^8.11.5",
+    "typeorm": "^0.3.20"
   },
   "devDependencies": {
     "bun-types": "latest"
